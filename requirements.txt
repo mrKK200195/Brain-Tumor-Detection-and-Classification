@@ -1,0 +1,5 @@
+# Python version used: 3.11.9
+streamlit
+tensorflow
+numpy
+Pillow
