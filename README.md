@@ -3,6 +3,9 @@
 A Streamlit application for classifying brain MRI images with a trained ResNet50 model. It predicts one of four classes and can display class probabilities and a Grad-CAM heatmap to help visualize image regions that contributed to the prediction.
 
 > **Important:** This project is an educational and research prototype, not a medical diagnostic tool. Do not use its predictions for medical decisions; consult a qualified healthcare professional.
+## Dataset
+This project uses the Brain Tumor MRI Dataset from Kaggle:
+[Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 
 ## Features
 
