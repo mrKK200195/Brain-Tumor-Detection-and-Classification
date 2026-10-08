@@ -8,6 +8,9 @@ __pycache__/
 venv/
 env/
 
+# Raw MRI dataset (keep locally; it is not uploaded to GitHub)
+data/raw/
+
 # Jupyter
 .ipynb_checkpoints/
 

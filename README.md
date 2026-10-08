@@ -15,6 +15,7 @@ A Streamlit application for classifying brain MRI images with a trained ResNet50
 
 - Python 3.11
 - The trained model file at `models/resnet50/best_resnet50.keras`
+- Git LFS to clone/download the model files from GitHub
 
 ## Setup
 
@@ -36,6 +37,8 @@ Install the application dependencies:
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 ```
+
+The model files are stored with [Git LFS](https://git-lfs.com/). Install Git LFS and run `git lfs install` before cloning this repository. The raw MRI dataset under `data/raw/` is intentionally excluded from GitHub; place your dataset there locally if you need it for notebook workflows.
 
 ## Run the app
 
