@@ -1,0 +1,5 @@
+true_class,predicted_class,confidence,original_image,gradcam_image
+glioma,glioma,0.3991054892539978,C:\Users\khala\Project\Tumor_Detection\Tumor_Detection\data\raw\Testing\glioma\Te-gl_1.jpg,C:\Users\khala\Project\Tumor_Detection\Tumor_Detection\results\gradcam\gradcam_glioma.png
+meningioma,meningioma,0.9420878887176514,C:\Users\khala\Project\Tumor_Detection\Tumor_Detection\data\raw\Testing\meningioma\Te-aug-me_1.jpg,C:\Users\khala\Project\Tumor_Detection\Tumor_Detection\results\gradcam\gradcam_meningioma.png
+notumor,notumor,0.9529419541358948,C:\Users\khala\Project\Tumor_Detection\Tumor_Detection\data\raw\Testing\notumor\Te-no_1.jpg,C:\Users\khala\Project\Tumor_Detection\Tumor_Detection\results\gradcam\gradcam_notumor.png
+pituitary,pituitary,0.986284613609314,C:\Users\khala\Project\Tumor_Detection\Tumor_Detection\data\raw\Testing\pituitary\Te-pi_1.jpg,C:\Users\khala\Project\Tumor_Detection\Tumor_Detection\results\gradcam\gradcam_pituitary.png

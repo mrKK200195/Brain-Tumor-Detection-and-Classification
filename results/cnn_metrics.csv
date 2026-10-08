@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1 Score
+CNN Baseline,0.758125,0.7674459077008067,0.758125,0.7455667505145054

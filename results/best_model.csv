@@ -1,0 +1,2 @@
+Best Model,Accuracy,Precision,Recall,F1 Score
+ResNet50,0.933125,0.9360958222480928,0.933125,0.9316292964567755
